@@ -1,0 +1,4 @@
+snickers;98684747473;chocolate;2
+pacoca;34324234;doce;3
+sonho de valsa;123ret;Bombom;1;
+cenoura;546ytr;vegetal;4;
